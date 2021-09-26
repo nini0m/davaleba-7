@@ -26,6 +26,10 @@
 .nav-a{
     color: #3D37F1;
 }
+.burger-bar{
+    display: none;
+    font-size: 25px;
+}
 /* section-top */
 .section-top{
     width: 1200px;
